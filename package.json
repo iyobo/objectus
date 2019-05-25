@@ -1,0 +1,11 @@
+{
+  "name": "objectus",
+  "version": "1.0.0",
+  "description": "An object you can stick anything into",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iyobo Eki",
+  "license": "ISC"
+}
