@@ -3,11 +3,12 @@
  * @type {{add: objects.add}}
  */
 
-export const jlf = {
+const jlf = {
     add: (name, obj) => {
         objects[name] = obj;
     }
 };
 
+exports.jlf = jlf;
 
-export default jlf;
+module.exports = jlf;
