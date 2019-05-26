@@ -1,6 +1,6 @@
 {
   "name": "jlf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An object you can stick anything into",
   "main": "index.js",
   "scripts": {
